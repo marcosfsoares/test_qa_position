@@ -26,8 +26,9 @@ class ProdutosPage
             
         when "Test.allTheThings() T-Shirt (Red)"
             return find(:xpath, buttonId_addList[5]).click
-              
-        return find(id_value).click     
+        end      
+        return find(id_value).click 
+            
 
     end
 

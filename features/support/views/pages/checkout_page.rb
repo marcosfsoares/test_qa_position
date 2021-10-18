@@ -13,6 +13,8 @@ class CheckoutPage
         click_button "Continue"
     end
 
-    
+    def checkout
+        return click_button "Checkout"
+    end
 
 end
