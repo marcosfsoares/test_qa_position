@@ -5,7 +5,8 @@ Dado('clico no ícone do carrinho') do
 end
   
 Quando('clico no botão checkout') do
-    click_button "Checkout"
+    @checkout_page = CheckoutPage.new
+    @checkout_page.checkout
 end
   
 Então('vou para a página de informações de entrega') do
@@ -13,7 +14,7 @@ Então('vou para a página de informações de entrega') do
 end
 
 Quando('preencho o formulário com nome {string}, ultimo nome {string} e cep {string}') do |firstName, lastName, zipCode|
-    @checkout_page = CheckoutPage.new
+  
     @checkout_page.with(firstName, lastName, zipCode)
 end
   
