@@ -1,5 +1,5 @@
 # test_qa_position
-## Small automation project used for QA job position
+## Pequeno projeto de automação de testes usado para pleitear uma vaga QA
 
 Resuldados dos testes disponíveis:
 - no arquivo TestResults.html
@@ -30,7 +30,7 @@ Nesse desafio você deve acessar o "e-commerce" https://www.saucedemo.com
  - ChromeDriver usado localmente através de variáveis de ambiente
  
  =======================================================================================
- ## Little Test Automation Project
+ ## Small Test Automation Project used for QA job position
 
 Available test results:
 - in the file TestResults.html
