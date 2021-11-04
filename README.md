@@ -1,5 +1,5 @@
-# sensedata_teste_qa
-## Pequeno projeto de automação para o processo seletivo da SenseData
+# test_qa_position
+## Small automation project used for QA job position
 
 Resuldados dos testes disponíveis:
 - no arquivo TestResults.html
