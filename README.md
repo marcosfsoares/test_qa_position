@@ -29,7 +29,7 @@ Nesse desafio você deve acessar o "e-commerce" https://www.saucedemo.com
  - Os testes foram realizados utilizando o browser Google Chrome
  - ChromeDriver usado localmente através de variáveis de ambiente
  
- =====================================================================================================
+ =======================================================================================
  ## Little Test Automation Project
 
 Available test results:
